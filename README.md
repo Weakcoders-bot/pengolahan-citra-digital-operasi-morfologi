@@ -1,3 +1,9 @@
+
+## Author
+Nama : Thio Mandala Putra  
+NIM  : 231011401660  
+Kelas: 05TPLP009
+
 # Operasi Morfologi pada Citra Biner
 
 ## Mata Kuliah
@@ -36,8 +42,3 @@ top hat, dan black hat.
 1. Buka folder `notebook/`
 2. Jalankan file `OPERASI_MORFOLOGI_PADA_CITRA_BINER.ipynb`
 3. Run cell dari atas ke bawah
-
-## Author
-Nama : Thio Mandala Putra  
-NIM  : 231011401660  
-Kelas: 05TPLP009
